@@ -1,12 +1,12 @@
 ﻿# upche_2_rpst
-# Попытка 4.0 Решение конфликта pull-push
-# Попытка 4.1 Решения конфликта pull-push 
-# Попытка 4.2 Решение конфликта pull-push
-# Попытка 4.3 Решение конфликта pull-push
-# Попытка 4.4 Решение конфликта pull-push
-# Попытка 4.5 Решение конфликта pull-push
-# Попытка 4.6 Решение конфликта pull-push
-# Попытка 4.7 Решение конфликта pull-push
-# Попытка 4.8 Решение конфликта pull-push
-# Попытка 4.9 Решение конфликта pull-push
-# Попытка 5.0 Решение конфликта pull-push
+# Attept 4.0 Conflict resolution pull-push
+# Attept 4.1 Conflict resolution pull-push 
+# Attept 4.2 Conflict resolution pull-push
+# Attept 4.3 Conflict resolution pull-push
+# Attept 4.4 Conflict resolution pull-push
+# Attept 4.5 Conflict resolution pull-push
+# Attept 4.6 Conflict resolution pull-push
+# Attept 4.7 Conflict resolution pull-push
+# Attept 4.8 Conflict resolution pull-push
+# Attept 4.9 Conflict resolution pull-push
+# Attept 5.0 Conflict resolution pull-push
